@@ -10,7 +10,7 @@
 | 版本 | 文件 | 适合场景 |
 | --- | --- | --- |
 | Lite 轻量版 | [`workbooks/IELTS_Practice_Tracker_Lite.xlsx`](workbooks/IELTS_Practice_Tracker_Lite.xlsx) | 只想简单记录练习成绩和趋势 |
-| Pro 功能增强版 | [`workbooks/IELTS_Practice_Tracker_Pro.xlsx`](workbooks/IELTS_Practice_Tracker_Pro.xlsx) | 想作为作品集展示，或需要仪表盘与弱项分析 |
+| Pro 功能增强版 | [`workbooks/IELTS_Practice_Tracker_Pro.xlsx`](workbooks/IELTS_Practice_Tracker_Pro.xlsx) | 需要仪表盘、目标追踪与弱项分析 |
 
 ## 功能增强版总览
 
